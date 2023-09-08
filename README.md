@@ -1,27 +1,18 @@
-# Store
+# Playstation Store Clone 🎮 🛍️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-CLI%3A%2016.2.0-red?style=for-the-badge&logo=ANGULAR&label=ANGULAR) &nbsp; &nbsp; &nbsp; ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-V%3A%2018.17.0-green?style=for-the-badge&logo=Node.js&label=Node.js)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descrição 📖
+Este projeto representa a criação de um clone da Playstation Store, utilizando como base o framework Angular e suas diversas propriedades e atribuições. Nele são trabalhados conceitos como [Components](https://angular.io/guide/component-overview), SPA, TypeScript, etc.
 
-## Code scaffolding
+## Tecnologias Utilizadas 💻
+- [x] Angular
+- [x] HTML
+- [x] CSS
+- [x] TypeScript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Links Úteis 🔗
+- [SPA - Conceito](https://www.treinaweb.com.br/blog/o-que-sao-aplicacoes-spa)
+- [Angular - Doc](https://angular.io/)
+- [TypeScript - Sintaxe](https://www.typescriptlang.org/pt/) 
